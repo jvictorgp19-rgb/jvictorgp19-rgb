@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER PRINCIPAL - EFEITO DE BOOT DO SISTEMA -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=SYSTEM.INIT()&fontSize=60&fontColor=00fff2&animation=fadeIn&fontAlignY=38&desc=JOSÉ%20VICTOR%20GUERRA%20PEREIRA%20//%20DEV%20UNIT%20BOOTING...&descAlignY=58&descSize=18&descColor=8be9fd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=WELCOME%2C%20VICTOR()&fontSize=60&fontColor=00fff2&animation=fadeIn&fontAlignY=38&desc=JOSÉ%20VICTOR%20GUERRA%20PEREIRA%20//%20DEV%20UNIT%20BOOTING...&descAlignY=58&descSize=18&descColor=8be9fd" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
